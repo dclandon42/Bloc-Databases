@@ -27,6 +27,7 @@ $15.99
 
 5. Explain the meaning of table, row, column, and value.
 
+
 	A: table: the structure of a database housing the rows, columns, and values, row: make up a complete conceptual unit, column: define what the data represents, values: a piece of information that the column name describes.
 
 6. List three data types that can be used in a table.
